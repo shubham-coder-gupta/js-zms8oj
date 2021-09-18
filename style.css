@@ -1,0 +1,28 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+.box {
+  width: 40px;
+  height: 40px;
+  color: black;
+  background-color: black;
+  border:1px solid black
+
+}
+.boxW {
+  width: 40px;
+  height: 40px;
+  color: black;
+  background-color: white;
+  border:1px solid black
+}
+.container{
+  display: flex;
+}
+.parent{
+  display: flex;
+}
+.highlight {
+  background-color: red;
+}
